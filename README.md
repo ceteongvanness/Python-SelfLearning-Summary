@@ -1,3 +1,5 @@
+> Don't stop until you're done!
+
 **Documentation**
 
 [Python](https://docs.python.org/3/)
