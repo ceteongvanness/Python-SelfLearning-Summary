@@ -30,7 +30,7 @@
    | /      | division         |
    | **     | exponentiation   |
    | %      | modulo           |
-   | //     | integer devision |
+   | //     | integer division |
 
    (ii) **Assignment Operators**
 
