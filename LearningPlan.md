@@ -4,7 +4,7 @@
 | Data Types and Operators       | 180                |                      | 4 May 2019         |
 | Data Structures                | 120                |                      | 4 May 209          |
 | Control Flows                  | 120                |                      | 5 May 2019         |
-| Functions                      | 120                |                      |                    |
+| Functions                      | 120                |                      | 5 May 2019         |
 | Scripting                      | 120                |                      |                    |
 | Intro to Obejct-Oriented       | 60                 |                      |                    |
 | **Start P1 Project**           | 720                |                      |                    |
