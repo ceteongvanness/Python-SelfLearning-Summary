@@ -3,7 +3,8 @@
 **Documentation**
 
 1. [Python](https://docs.python.org/3/)
-2. [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
+2. [Python Wiki](https://wiki.python.org/moin/FrontPage)
+3. [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
 
 **Practice**
 
