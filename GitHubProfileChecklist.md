@@ -22,3 +22,9 @@
 - [ ] My most recent three projects have a completed README practices.
 - [ ] (Optional) I have starred at least one repository I'd like to keep track of.
 
+**Resources**
+
+[How do I have a stellar GitHub profile?](https://www.quora.com/How-do-I-have-a-stellar-GitHub-profile)
+
+[How to optimize your GitHub profile](https://hackernoon.com/how-to-optimize-your-github-profile-9540f338b2c9)
+
