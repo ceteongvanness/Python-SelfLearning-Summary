@@ -11,6 +11,7 @@
 
 1. [Hacker Rank](https://www.hackerrank.com/)
 2. [LeetCode](https://leetcode.com/)
+3. [Python Tutorial](https://docs.python.org/3/tutorial/)
 
 **Chapter 1: Summary of Data Types and Operators**
 
