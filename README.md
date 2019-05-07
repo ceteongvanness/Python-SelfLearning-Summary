@@ -18,6 +18,7 @@
 3. [Python Tutorial](https://docs.python.org/3/tutorial/)
 4. [Learn Python](http://www.learnpython.org/)
 5. [Python Course - Python 3 Tutorial](https://www.python-course.eu/python3_properties.php)
+6. [Real Python](https://realpython.com/)
 
 **Statistics**
 
@@ -109,4 +110,22 @@
 4. **method** - an action that a class or object could take.
 5. **OOP** - a commonly used abbreviation for object-oriented programming.
 6. **encapsulation** - one of the fundamental ideas behind object-oriented programming is called encapsulation: you can combine functions and data all into a single entity. In object-oriented programming, this single entity is called a class. Encapsulation allows you to hide implementation details much like how the scikit-learn package hides the implementation of machine learning algorithms.
+
+**Resources for Advanced Python object-oriented programming**:
+
+1. [class methods, instance methods, and static methods](https://realpython.com/instance-class-and-static-methods-demystified/)
+
+   these are different types of methods that can be accessed at the class or object level
+
+2. [class attributes vs instance attributes](https://www.python-course.eu/python3_class_and_instance_attributes.php)
+
+   you can also define attributes at the class level or at the instance level
+
+3. [multiple inheritance, mixins](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)
+
+   A class can inherit from multiple parent classes
+
+4. [Python decorators](https://realpython.com/primer-on-python-decorators/) 
+
+   Decorators are a shot-hand way for using functions inside other functions
 
