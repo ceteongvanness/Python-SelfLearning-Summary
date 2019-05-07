@@ -6,7 +6,7 @@
 | Control Flows                  | 120                | 5 May 2019         |
 | Functions                      | 120                | 5 May 2019         |
 | Scripting                      | 120                | 6 May 2019         |
-| Intro to Obejct-Oriented       | 60                 |                    |
+| Intro to Obejct-Oriented       | 60                 | 7 May 2019         |
 | **Start P1 Project**           | 720                |                    |
 | **P1 Project due**             |                    |                    |
 | Anaconda                       | 60                 |                    |
