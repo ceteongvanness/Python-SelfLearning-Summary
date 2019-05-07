@@ -19,6 +19,11 @@
 4. [Learn Python](http://www.learnpython.org/)
 5. [Python Course - Python 3 Tutorial](https://www.python-course.eu/python3_properties.php)
 
+**Statistics**
+
+1. [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+2. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+
 **Chapter 1: Summary of Data Types and Operators**
 
 1. **Data Types**
