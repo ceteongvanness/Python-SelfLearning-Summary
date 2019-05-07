@@ -17,6 +17,7 @@
 2. [LeetCode](https://leetcode.com/)
 3. [Python Tutorial](https://docs.python.org/3/tutorial/)
 4. [Learn Python](http://www.learnpython.org/)
+5. [Python Course - Python 3 Tutorial](https://www.python-course.eu/python3_properties.php)
 
 **Chapter 1: Summary of Data Types and Operators**
 
