@@ -91,3 +91,15 @@
 *You can use curly braces to define a set like this: `{1,2,3}`. However, if you leave the curly braces empty like this: `{}` Python will instead create an empty dictionary. So to create an empty set, use `set()`.
 
 ** A dictionary itself is mutable, but each of its individual keys must be immutable.
+
+**Chapter 7: Intro to Object-Oriented Programming**
+
+**Object-Oriented Programming (OOP) Vocabulary**
+
+1. **class** - a blue print consisting of methods and attributes
+2. **object** - an instance of a class. It can help to think of objects as something in the real world like a yellow pencil, a small dog, a blue shirt, etc. However, you'll see later in the lesson, objects can be more abstract.
+3. **attribute** - a descriptor or characteristic. Examples would be color, length, size, etc. These attributes can take on specific values like blue, 3 inches, large, etc.
+4. **method** - an action that a class or object could take.
+5. **OOP** - a commonly used abbreviation for object-oriented programming.
+6. **encapsulation** - one of the fundamental ideas behind object-oriented programming is called encapsulation: you can combine functions and data all into a single entity. In object-oriented programming, this single entity is called a class. Encapsulation allows you to hide implementation details much like how the scikit-learn package hides the implementation of machine learning algorithms.
+
