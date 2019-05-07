@@ -1,4 +1,4 @@
-| Title                          | Durations(minutes) | Actual Finish Date |
+| Lessons                        | Durations(minutes) | Actual Finish Date |
 | ------------------------------ | ------------------ | ------------------ |
 | Introduction to AI Programming | 60                 | 3 May 2019         |
 | Data Types and Operators       | 180                | 4 May 2019         |
