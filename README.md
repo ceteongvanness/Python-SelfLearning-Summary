@@ -129,3 +129,88 @@
 
    Decorators are a shot-hand way for using functions inside other functions
 
+**Numpy, Pandas, Matplotlib**
+
+**1. Anaconda**
+
+**On Windows**
+
+- **Anaconda Navigator**, a GUI for managing your environments and packages
+- **Anaconda Prompt**, a terminal where you can use the command line interface to manage your environments and packages
+- **Spyder**, an IDE geared toward scientific development
+
+**Command to Upgrade** 
+
+```
+conda upgrade conda
+conda upgrade --all
+```
+
+**Command to Install Numpy, Scipy and Pandas**
+
+```
+conda install numpy scipy pandas
+```
+
+**Command to Create Environment**
+
+```
+conda create -n env_name list of packages
+```
+
+* env_name is your environment
+
+**Save and loading environments**
+
+```
+conda env export
+environment.yaml
+```
+
+**Create an environment from an environment file**
+
+```
+conda env create -f environment.yaml
+```
+
+**Removing environment**
+
+```
+conda env remove -n env_name
+```
+
+
+
+2. **Jupyter Notebook**
+
+   **Installing Jupyter Notebook command**
+
+   ```
+   conda install jupyter notebook
+   OR
+   pip install jupyter notebook
+   ```
+
+   **Launching Jupyter Notebook Server**
+
+   ```
+   jupyter notebook
+   ```
+
+3. **Numpy**
+
+   **Check NumPy version**
+
+   ```
+   conda list numpy
+   ```
+
+   **NumPy Documentation**
+
+   (a) [NumPy Manual](https://docs.scipy.org/doc/numpy-1.13.0/contents.html)
+
+   (b) [NumPy User Guide](https://docs.scipy.org/doc/numpy-1.13.0/user/index.html)
+
+   (c) [NumPy Reference](https://docs.scipy.org/doc/numpy-1.13.0/reference/index.html#reference)
+
+   (d) [Scipy Lectures](http://scipy-lectures.org/intro/numpy/index.html)
