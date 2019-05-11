@@ -13,7 +13,7 @@
 | Jupyter Notebook               | 60                 | 9 May 2019         |
 | Numpy                          | 60                 | 9 May 2019         |
 | Pandas                         | 60                 | 9 May 2019         |
-| Matpolib & Seaborn I & II      | 210                |                    |
+| Matpolib & Seaborn I & II      | 210                | 11 May 2019        |
 | Linear algebra lessons         | 240                |                    |
 | Linear algebra lab             | 240                |                    |
 | Calculus Essentials            | 120                |                    |
