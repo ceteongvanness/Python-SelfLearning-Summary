@@ -58,7 +58,7 @@
 
 **Tip**: Whenever you can, describe your work quantitatively. If you can't due to the nature of your work, still showcase its success, even when what you achieved wasn't what you originally intended. If you have less than 3 work experiences, try to supplement by adding another project to your Project section.
 
-Experience
+**Experience**
 
 - Experiences note company/organization, title of role, start and end date (month & year), location
 - Include unpaid or part-time work, if applicable, but omits the words "part-time" and "unpaid"
@@ -71,10 +71,25 @@ Experience
   - At least 1 bullet point provides concrete, numerical evidence such as projects completed, money made, people managed, accomplishments (eg. % increase)
 - Bullet points are one sentence maximum, not longer than one and half lines
 
-Hiring Perspective:
+**Hiring Perspective**: An employer only wants you if you can complete work assignments, multitask, and deliver results. This means not only having the technical skills, but also the soft skills to work and communicate well with other team members.
 
-Tip:
+**Tip**: If you're an entry-level candidate, you should include all previous roles to demonstrate work history; this includes internships and volunteer roles. If you have no experiences, consider if  it'd be appropriate to market yourself as independent or freelance worker. If you are making a career change and already have professional experience in a different field, try to focus on highlighting valuable soft skills such as team collaboration or public speaking in your work experience, as these are often transferable and important across different industries. If you need help thinking of action verbs to describe your work experiences, check out UC Berkeley's list of resume action verbs [here](https://github.com/ceteongvanness/Python-SelfLearning-Summary/blob/master/action-verbs.pdf).
 
-Education
+**Education**
 
-Skills
+- Education is listed in reverse chronological order
+- Nanodegree is list as either Education OR Certification, but not both
+
+**Hiring Perspective**: Employers and recruiters want to see relevant education if possible - like a Udacity Nanodegree program - that demonstrates initiative to learn relevant skills. The tech industry is constantly changing, so employers typically want to hire a person personally driven enough to stay on the cutting edge of the field event after being hired in a role.
+
+**Tip**: If you have a technical or relevant university degree, highlight that over other education. If there is incomplete education that is not in progress, frame this experience positively by focusing on what you did complete. For example: "60 credits toward a bachelor's degree in Computer Science" or "Courses completed in computer science, design,  communications." Finally, be sure to spell "Nanodegree" correctly. All Nanodegree programs are listed on Udacity.
+
+**Skills**
+
+- Skills listed can include both technical skills (ie: programming languages) and others, such as "project management"
+- Skills section should not include commonly-used technologies such as Microsoft Word or PowerPoint
+- Skills section should not include common soft skills like "communication" or "attention to detail"
+
+**Hiring Perspective**: While you may be tempted to include as many skills as possible to appear impressive, employers are only concerned with seeing the skills mentioned in the job posting, so including other skills will look like extraneous information.
+
+**Tip**: Did you include all of your skills on your profile? Consider if the number of skills listed oversaturated that section. If so, top 10 (more or less) skills and remove the rest.
