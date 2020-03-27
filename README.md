@@ -5,11 +5,12 @@
 1. [Python](https://docs.python.org/3/)
 2. [Python Wiki](https://wiki.python.org/moin/FrontPage)
 3. [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#tabs-or-spaces)
-4. [Python 3 Module of the Week](https://pymotw.com/3/)
-5. [Scikit-Learn](https://scikit-learn.org/stable/modules/svm.html)
-6. [pandas](https://pandas.pydata.org/)
-7. [NumPy](http://www.numpy.org/)
-8. [Matpolib](https://matplotlib.org/)
+4. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+5. [Python 3 Module of the Week](https://pymotw.com/3/)
+6. [Scikit-Learn](https://scikit-learn.org/stable/modules/svm.html)
+7. [pandas](https://pandas.pydata.org/)
+8. [NumPy](http://www.numpy.org/)
+9. [Matpolib](https://matplotlib.org/)
 
 **Practice**
 
